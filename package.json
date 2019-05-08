@@ -1,0 +1,22 @@
+{
+  "name": "fusion-components-taro",
+  "version": "1.0.0",
+  "description": "h5, weapp, rn components for taro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pigongting/fusion-components-taro.git"
+  },
+  "keywords": [
+    "taro"
+  ],
+  "author": "pigongting",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pigongting/fusion-components-taro/issues"
+  },
+  "homepage": "https://github.com/pigongting/fusion-components-taro#readme"
+}
