@@ -1,6 +1,6 @@
 {
   "name": "fusion-components-taro",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "h5, weapp, rn components for taro",
   "main": "index.js",
   "scripts": {
